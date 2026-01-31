@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50" width="200" height="50">
+  <style>
+    .allo { fill: #3f8f92; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; font-size: 36px; }
+    .trope { fill: #ebebeb; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 700; font-size: 36px; }
+  </style>
+  <text x="0" y="38">
+    <tspan class="allo">Allo</tspan><tspan class="trope">trópe</tspan>
+  </text>
+</svg>
